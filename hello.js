@@ -4,8 +4,13 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("The Meaning of Life will be revealed on the next line.")
 
+let num1 = 21;
+let num2 = 21;
+let sum = num1 + num2;
+console.log("The Meaning of Life is",sum);
+console.log('Quoth the Raven "Nevermore" ')
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
